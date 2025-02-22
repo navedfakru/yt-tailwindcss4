@@ -1,4 +1,4 @@
-import { routeData } from "@/data/routedata";
+import { routeData } from "@/data/routeData";
 import Link from "next/link";
 
 export default function Home() {
